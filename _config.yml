@@ -8,16 +8,16 @@ title: Your job title
 email: Your email (optional)
 phone: Your phone number (optional)
 cv   : "resume.pdf"
-#website: Your website (eg. https://google.com)(optional)
+website: https://asvoria.github.io/MyCV/
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  moya10
+github_username:  asvoria
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-#linkedin_username: jekyll
+linkedin_username: asvoriakuan
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
