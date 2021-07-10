@@ -3,10 +3,10 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
+name: Asvoria Kuan Soo Huey
+title: Engineer
+email: asvoria@live.com
+phone: "+6016-4713138"
 cv   : "resume.pdf"
 website: https://asvoria.github.io/MyCV/
 
