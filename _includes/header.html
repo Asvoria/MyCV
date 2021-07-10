@@ -83,6 +83,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.whatsapp_number -%}
+          <li>
+            <a target="_blank" href="https://wa.me/{{ site.whatsapp_number| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-whatsapp" title="whatsapp link"></i>
+            </a>
+          </li>
+        {%- endif -%}
       </ul>
 
       {%- if site.email -%}
