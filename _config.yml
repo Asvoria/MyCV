@@ -29,7 +29,7 @@ researchgate_name: Soo-Huey-Kuan
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Engineer with strong technical knowledge and hands on experience. Over 12 years working in the electronics industry. Started her own electronic product business, build up a product. Electronics hardware from architecture, schematic, simulation, PCB floorplanning, routing, BOM, assembly, testing, FA, to final documentation of her invention. Also profess in IC desgin, from RTL to schematics, to mask/layout design of 14nm (or less) technology. Also an expert in C/C++/C# programming. She believes all computer languages are the same! Regardless of java python solidity or any new languages that a computer may understand: codes.
+  Engineer with strong technical knowledge and hands on experience. Over 12 years working in the electronics industry. Started her own electronic product business, build up a product. Electronics hardware from architecture, schematic, simulation, PCB floorplanning, routing, BOM, assembly, testing, FA, to final documentation of her invention. Also profess in IC design, from RTL to schematics, to mask/layout design of 14nm (or less) technology. Also an expert in C/C++/C# programming. She believes all computer languages are the same! Regardless of java python solidity or any new languages that a computer may understand: codes.
 
     - <a href='#projects'> Current Projects </a>
     - <a href='#xprojects'> Previous Projects </a>
