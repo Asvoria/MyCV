@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Asvoria Kuan Soo Huey
-title: Engineer
+title: Homo sapiens...
 email: asvoria@live.com
 phone: "+6016-4713138"
 cv   : "resume.pdf"
@@ -28,7 +28,7 @@ whatsapp_number: "60164713138"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
+  Engineer with strong technical knowledge and hands on experience. Over 12 years working in the electronics industry. Started her own electronic product business, build up a product. Electronics hardware from architecture, schematic, simulation, PCB floorplanning, routing, BOM, assembly, testing, FA, to final documentation of her invention. Also profess in IC desgin, from RTL to schematics, to mask/layout design of 14nm (or less) technology. Also an expert in C/C++/C# programming. She believes all computer languages are the same! Regardless of java python solidity or any new languages that a computer may understand: codes.
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
     - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
