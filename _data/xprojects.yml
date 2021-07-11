@@ -7,6 +7,14 @@
   dates: "2015"
   qualification: A thesis for LLM. Master of Law (Intellectual Property)
 
+- name: Haswell (Intel)
+  dates: 2009 - 2012
+  qualification: Design of circuitry schematics and mask layout for register file fubs in desktop microprocessor. Also involved in multiple of repeater fub works.
+
+- name: Westmere (Intel)
+  dates: 2008 - 2009
+  qualification: Design of mask layout for analogue fubs in desktop microprocessor.
+
 - name: Design and Prototyping of Wireless Machine Management System (IOT/SCADA)
   dates: "2008"
   qualification: Final Year Project for Bachelor's Degree of Engineering (Microelectronics)
