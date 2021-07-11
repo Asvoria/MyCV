@@ -1,9 +1,9 @@
 # Project template
 - layout: top-middle
-  name: SmartLoan - A DeFi Solution to Student Debt Crisis!
+  name: SmartLoan
   link: https://smartloan.github.io/smartloan-page/
   github: SmartLoan
   quote: >
-    Short overview of the project (optional)
+    A DeFi Solution to Student Debt Crisis!
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    SmartLoan is a Proof of Concept P2P loan DeFi prototype for the digital future which attempt to solve student debt crisis. It attempt to bridge between permissionless and permissioned chains, providing a low risk, secured and collateral-free lending that benefits both borrowers and lenders. The design of negative interest rates calculated based on monthly repayment principal, and positive interest rates based on the debtor's net income.
