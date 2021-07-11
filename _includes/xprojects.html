@@ -1,0 +1,6 @@
+<div id="xprojects" class="container xprojects-container">
+    <h3>{{ site.xprojects_title | default: "Previous Projects" }}</h3>
+    {% for xprojects in site.data.xprojects %}
+      {% include {{ xprojects.layout | default: 'left' | append: ".html" }} item=xprojects %}
+    {% endfor %}
+  </div>

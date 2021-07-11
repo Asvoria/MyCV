@@ -1,0 +1,18 @@
+# Education Template
+- name: Southern University College, Johor, Malaysia
+  dates: Jun 2021 – present
+  qualification: PhD by Research (Blockchain, DeFi, DID)
+  # quote: Short institution or course description (optional)
+  # description: Description of qualification
+
+- name: University of Turin (UNITO), Italy
+  dates: Jun 2014 – Feb 2015
+  qualification: LLM. Master of Law (Intellectual Property)
+  # quote: Short institution or course description (optional)
+  # description: Description of qualification
+- name: University Malaysia Perlis (UNIMAP), Malaysia
+  dates: Jun 2004 – Aug 2008
+  qualification: Bachelor's Degree of Engineering (Microelectronics)
+
+- name: EdX Certificates
+  description: <p><a href="https://courses.edx.org/certificates/62c80387c5f34dcea22de53f71b8da88" target="_blank">LFS172x - Introduction to Hyperledger Sovereign Identity Blockchain Solutions - Indy, Aries & Ursa</a></p><p><a href="https://courses.edx.org/certificates/3cac7cecf97e4cc39e78613b8164c44f" target="_blank">BerkeleyX - CS198.2x Blockchain Technology</a></p><p><a href="https://verify.edx.org/cert/c152e27762694d64937e15c4156b3f46" target="_blank">HarvardX - GSE2x, Leaders of Learning</a></p>
