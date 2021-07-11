@@ -36,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
     - <a href='#employment'> Employment History </a>
     - <a href='#education'> Education Background </a>
     - <a href='#extra'> Other Infromation </a>
-    - [Download My Resume](/MyCV/AsvoriaKuanSooHuey_CV.pdf)
+    - [Download My Resume](/MyCV/AsvoriaKuanSooHuey_CV.pdf){:target="_blank"}
 
 # Projects Section
 projects_title: Current Projects #(Use this to override about projects section title)
@@ -55,13 +55,13 @@ more_content: | # this will include new lines to allow paragraphs
   * Electronics circuit design (both digital and analogue circuits), from schematic to PCBA.
   
   **Interests**
-  * [Art](http://avichenatelier.blogspot.com/)
+  * [Art](http://avichenatelier.blogspot.com/){:target="_blank"}
 
   **Obligation**
-  * [Charity Fund](https://asvoria.github.io/olmcf/)
+  * [Charity Fund](https://asvoria.github.io/olmcf/){:target="_blank"}
 
   **Experiment**
-  * [Thrifty Old Student Experimental Projects](https://github.com/ThriftyOldStudent)
+  * [Thrifty Old Student Experimental Projects](https://github.com/ThriftyOldStudent){:target="_blank"}
 
 # Footer
 footer_show_references: true
