@@ -4,8 +4,8 @@
   # link: Link to company (optional)
   job_title: Component Design Engineer
   dates: Jun 2008 – Jun 2012
-  quote: >
-   Short description of the company (optional)
+  #quote: >
+  # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Successfully completed the designated fub layout for Westmere and Haswell projects on schedule. At the same time, she provided support for her colleagues on their fubs. During the 2nd year of her employment, she expanded her career by taking up schematic design for RF (Register Files) fubs.
 
