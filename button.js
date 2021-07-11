@@ -4,7 +4,7 @@ $(window).scroll(function() {
   if ($(window).scrollTop() > 200) {
     btn.visibility('show');
   } else {
-    btn.visibility('hidden');
+    btn.visibility('visible');
   }
 });
 
