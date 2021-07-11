@@ -1,4 +1,10 @@
 # Education Template
+- name: Southern University College, Johor, Malaysia
+  dates: Jun 2021 – present
+  qualification: PhD by Research (Blockchain, DeFi, DID)
+  # quote: Short institution or course description (optional)
+  # description: Description of qualification
+
 - name: University of Turin (UNITO), Italy
   dates: Jun 2014 – Feb 2015
   qualification: LLM. Master of Law (Intellectual Property)
