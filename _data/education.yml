@@ -9,14 +9,4 @@
   qualification: Bachelor's Degree of Engineering (Microelectronics)
 
 - name: EdX Certificates
-  dates: <a href="https://courses.edx.org/certificates/3cac7cecf97e4cc39e78613b8164c44f" target="_blank">BerkeleyX - CS198.2x Blockchain Technology</a>
-  qualification: <a href="https://courses.edx.org/certificates/62c80387c5f34dcea22de53f71b8da88" target="_blank">LFS172x - Introduction to Hyperledger Sovereign Identity Blockchain Solutions - Indy, Aries & Ursa</a>
-  description: <a href="https://verify.edx.org/cert/c152e27762694d64937e15c4156b3f46" target="_blank">HarvardX - GSE2x, Leaders of Learning</a>
-
-- name: EdX Certificates
-  dates: 2021
-  qualification: <a href="https://courses.edx.org/certificates/3cac7cecf97e4cc39e78613b8164c44f" target="_blank">BerkeleyX - CS198.2x Blockchain Technology</a>
-
-- name: EdX Certificates
-  dates: 2021
-  qualification: <a href="https://verify.edx.org/cert/c152e27762694d64937e15c4156b3f46" target="_blank">HarvardX - GSE2x, Leaders of Learning</a>
+  description: <p><a href="https://courses.edx.org/certificates/62c80387c5f34dcea22de53f71b8da88" target="_blank">LFS172x - Introduction to Hyperledger Sovereign Identity Blockchain Solutions - Indy, Aries & Ursa</a></p><p><a href="https://courses.edx.org/certificates/3cac7cecf97e4cc39e78613b8164c44f" target="_blank">BerkeleyX - CS198.2x Blockchain Technology</a></p><p><a href="https://verify.edx.org/cert/c152e27762694d64937e15c4156b3f46" target="_blank">HarvardX - GSE2x, Leaders of Learning</a></p>
