@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
   name: SmartLoan - A DeFi Solution to Student Debt Crisis!
-  link: <a href="https://smartloan.github.io/smartloan-page/" target="_blank">SmartLoan Project Page</a>
+  link: https://smartloan.github.io/smartloan-page/
   github: https://github.com/SmartLoan
   quote: >
     Short overview of the project (optional)
