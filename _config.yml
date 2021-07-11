@@ -31,10 +31,10 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Engineer with strong technical knowledge and hands on experience. Over 12 years working in the electronics industry. Started her own electronic product business, build up a product. Electronics hardware from architecture, schematic, simulation, PCB floorplanning, routing, BOM, assembly, testing, FA, to final documentation of her invention. Also profess in IC desgin, from RTL to schematics, to mask/layout design of 14nm (or less) technology. Also an expert in C/C++/C# programming. She believes all computer languages are the same! Regardless of java python solidity or any new languages that a computer may understand: codes.
 
-    - <p><a href='#projects'> One </a></p>
-    - <p><a href='#employment'> One </a></p>
-    - <p><a href='#education'> One </a></p>
-    - <p><a href='#extra'> One </a></p>
+    - <a href='#projects'> One </a>
+    - <a href='#employment'> One </a>
+    - <a href='#education'> One </a>
+    - <a href='#extra'> One </a>
     - [Download My Resume](https://moya10.github.io/awesome-cv/resume.pdf)
     - [Current Projects](https://moya10.github.io/awesome-cv/resume.pdf)
     - [Employment History](https://moya10.github.io/awesome-cv/resume.pdf)
