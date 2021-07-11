@@ -1,5 +1,25 @@
 # Experience template
 - layout: left
+  company: Continental Electronics (Singapore) Pte Ltd
+  link: https://www.continental.sg/
+  job_title: Senior Embedded System Engineer
+  dates: Dec 2019 - Present
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Development and prototyping of various electronics products. Sky is the limits!
+
+- layout: left
+  company: Alam Pelangi Envirotech (Malaysia)
+  # link: Link to company (optional)
+  job_title: Founder Engineer
+  dates: Dec 2018 - Dec 2019
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Development and prototyping of IOT product, bridging the analog world to digital computing. Implementing high precision, super speed analog-to-digital module. Negotiate with potential customers, vendors, and managing engineering, marketing and sales team. Response and bid on call-for-tender projects. Seeking and pitching for investors to help accelerate the completion of the project.
+
+- layout: left
   company: Southern University College (Johor, Malaysia)
   # link: Link to company (optional)
   job_title: Lecturer

@@ -3,5 +3,4 @@
   {% for project in site.data.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
   {% endfor %}
-  <p align="right"></p><a href='#top_home'> Back to Top </a></p>
 </div>
