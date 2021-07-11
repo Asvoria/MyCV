@@ -36,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
     - <a href='#employment'> Employment History </a>
     - <a href='#education'> Education Background </a>
     - <a href='#extra'> Other Infromation </a>
-    - [Download My Resume](https://moya10.github.io/awesome-cv/resume.pdf)
+    - [Download My Resume](/MyCV/AsvoriaKuanSooHuey_CV.pdf)
 
 # Projects Section
 projects_title: Current Projects #(Use this to override about projects section title)
