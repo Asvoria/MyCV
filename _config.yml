@@ -30,11 +30,10 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Engineer with strong technical knowledge and hands on experience. Over 12 years working in the electronics industry. Started her own electronic product business, build up a product. Electronics hardware from architecture, schematic, simulation, PCB floorplanning, routing, BOM, assembly, testing, FA, to final documentation of her invention. Also profess in IC desgin, from RTL to schematics, to mask/layout design of 14nm (or less) technology. Also an expert in C/C++/C# programming. She believes all computer languages are the same! Regardless of java python solidity or any new languages that a computer may understand: codes.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
+    - [Download My Resume](https://moya10.github.io/awesome-cv/resume.pdf)
+    - [Current Projects](https://moya10.github.io/awesome-cv/resume.pdf)
+    - [Employment History](https://moya10.github.io/awesome-cv/resume.pdf)
+    - [Education Background](https://moya10.github.io/awesome-cv/resume.pdf)
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
