@@ -13,8 +13,6 @@
     opacity: 0;
     visibility: hidden;
     z-index: 1000;
-  }
-  #btnup::after {
     content: "\f077";
     font-family: FontAwesome;
     font-weight: normal;
