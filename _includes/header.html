@@ -90,6 +90,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.researchgate_name -%}
+          <li>
+            <a target="_blank" href="https://www.researchgate.net/profile/{{ site.researchgate_name| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-researchgate" title="ResearchGate link"></i>
+            </a>
+          </li>
+        {%- endif -%}
       </ul>
 
       {%- if site.email -%}
