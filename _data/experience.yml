@@ -1,6 +1,30 @@
 # Experience template
 - layout: left
-  company: Intel Microelectronics (M) Sdn Bhd
+  company: Hitachi Critical Facilities Protection (Singapore) Pte Ltd
+  # link: Link to company (optional)
+  job_title: Research Engineer
+  dates: Jul 2012 – Sep 2015
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Leads the R&D team to design new product from concept to micro-production of golden sample. The team had successfully improved the performance of HCFP’s core surge protection device and greatly reduce the production costs by re-design the PCB, components and careful selection of new components. She was part of the pioneer R&D team member who successfully set up a high voltage test lab for HCFP. She build up a 10kV 5kA surge generator to perform tests on new products.
+
+    Introduce product concept & solution. Design circuitry, simulation models, build schematics, footprints library, component placement, PCB layout routing, BOM, marketing prototype building, functional prototype building and testing, final production golden sample preparation.
+
+    * Design art stages which met DFM, going through TRLA (Technology Readiness Level Assessment) & MRLA (Manufacturing Readiness Level Assessment)
+    * Working together with procurement to source & negotiates for BOM purchases.
+    * Plan & perform tests for new products for IEC/UL/JIS standard tests.
+    * Documentation on product EC self certification.
+    * Working with marketing to perform public demonstration, expo, shows, & business partner presentation on new products.
+    * Roadmap & budget planning on new product design.
+    * Prior art search & evaluating product patentability. Document preparation & log booking for R&D process.
+    * Develop test methods/technique, integrate and validate test program for surge protection devices and varistor components.
+    * Customer's site survey to collect realistic data, identify problems and propose new design improvement.
+    * Meeting with customer to analyze their needs & provide technical support to sales account manager for preparation of quotation for the customers.
+    * Responsible to set up high voltage test lab. Building of 10kV 5kA surge generator to perform tests on new products.
+
+- layout: left
+  company: Intel Microelectronics (Malaysia) Sdn Bhd
   # link: Link to company (optional)
   job_title: Component Design Engineer
   dates: Jun 2008 – Jun 2012
@@ -16,11 +40,8 @@
     Tape-in schematics to layout. Design digital and analogue layout using Genesys (CAD tool) to meet DRC (Design Rule Check), and RV (Reliability Verification) to tape-in for production.
 
     4 years Digital Integrated Circuit mask design experience.
-
     1+ years Analogue Integrated Circuit mask design experience.
-
     1+ years Digital Integrated Circuit design experience.
 
     Chartered 28nm layout design to meet DRC & production rules.
-
     Digital core RF (Register Files) circuit design from RTL to schematics.
