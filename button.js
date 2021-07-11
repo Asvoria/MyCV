@@ -1,4 +1,4 @@
-var btn = document.getElementById('#btnup');
+var btn = document.getElementById('btnup');
 
 $(window).scroll(function() {
   if ($(window).scrollTop() > 200) {
