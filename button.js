@@ -2,9 +2,9 @@ var btn = document.getElementById('#btnup');
 
 $(window).scroll(function() {
   if ($(window).scrollTop() > 200) {
-    btn.addClass('show');
+    btn.visibility('show');
   } else {
-    btn.removeClass('show');
+    btn.visibility('hidden');
   }
 });
 
