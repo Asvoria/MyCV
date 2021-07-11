@@ -2,7 +2,7 @@
 - layout: top-middle
   name: SmartLoan - A DeFi Solution to Student Debt Crisis!
   link: https://smartloan.github.io/smartloan-page/
-  github: https://github.com/SmartLoan
+  github: SmartLoan
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
