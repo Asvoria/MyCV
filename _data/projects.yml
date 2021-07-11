@@ -12,9 +12,9 @@
   name: Enhance utilization and investment sentiment on Decentralized Financial (DeFi) product through government regulated Decentralized Identifiers Documents(DID)
   #link: https://smartloan.github.io/smartloan-page/
   #github: SmartLoan
-  quote: >
-    An interdisciplinary research that covers computer science, banking and finance topics. It focus mainly on the network trusted identity authentication technology implementation on decentralized financial and banking system to achieve new findings on users sentiment.
+  # quote: >
   description: | # this will include new lines to allow paragraphs
+    This is an interdisciplinary research that covers computer science, banking and finance topics. It focus mainly on the network trusted identity authentication technology implementation on decentralized financial and banking system to achieve new findings on users sentiment.
     This research is attempt to answer the follong questions...
     1.	To what extend the government regulation of DeFi products help to bring up user awareness on cybercrime, and thus, reducing DeFi related scams?
     2.	How the bridging between government regulated permissioned network and permissionless blockchain can improve the adoptability of a DeFi product?
