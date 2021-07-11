@@ -50,7 +50,12 @@ education_title: Education Background #(Use this to override about education sec
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  **Skills**
+  * Programming - expert in C/C++/C# but flexible on all other programming languages. An advocate for the concept of teaching C as "Mother of all programming languages". Profess both firmware and software programming.
+  * Electronics circuit design (both digital and analogue circuits), from schematic to PCBA.
+  
+  **Interests**
+  * [Art](http://avichenatelier.blogspot.com/)
 
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
