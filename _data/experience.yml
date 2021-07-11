@@ -1,10 +1,26 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Intel Microelectronics (M) Sdn Bhd
+  # link: Link to company (optional)
+  job_title: Component Design Engineer
+  dates: Jun 2008 – Jun 2012
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Successfully completed the designated fub layout for Westmere and Haswell projects on schedule. At the same time, she provided support for her colleagues on their fubs. During the 2nd year of her employment, she expanded her career by taking up schematic design for RF (Register Files) fubs.
+
+    Design integrated circuit schematics (Register Files) to pass FEV (Formal Equivalence Verification), converge timing, power, noise and quality requirements internally and externally to section.
+
+    Re-design and implement new schematic topology to meet timing and power requirement.
+
+    Tape-in schematics to layout. Design digital and analogue layout using Genesys (CAD tool) to meet DRC (Design Rule Check), and RV (Reliability Verification) to tape-in for production.
+
+    4 years Digital Integrated Circuit mask design experience.
+
+    1+ years Analogue Integrated Circuit mask design experience.
+
+    1+ years Digital Integrated Circuit design experience.
+
+    Chartered 28nm layout design to meet DRC & production rules.
+
+    Digital core RF (Register Files) circuit design from RTL to schematics.
