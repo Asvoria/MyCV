@@ -1,8 +1,8 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: SmartLoan - A DeFi Solution to Student Debt Crisis!
+  link: <a href="https://smartloan.github.io/smartloan-page/" target="_blank">SmartLoan Project Page</a>
+  github: https://github.com/SmartLoan
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
