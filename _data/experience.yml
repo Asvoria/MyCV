@@ -1,5 +1,25 @@
 # Experience template
 - layout: left
+  company: Southern University College (Johor, Malaysia)
+  # link: Link to company (optional)
+  job_title: Lecturer
+  dates: Sep 2017 – Dec 2018
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Covered various engineering topics such as Electronics Instrumentation, VLSI system Design, Digital Signal Processing, Signal and Systems, C/C++/C# Programming and Higher Engineering Mathematics. Successfully guided Diploma Students on their final year projects which encompass various engineering problems.
+
+- layout: left
+  company: Usains Infotech (Malaysia) Sdn Bhd (Infinec)
+  # link: Link to company (optional)
+  job_title: Senior Component Design Engineer
+  dates: Dec 2016 – July 2017
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Successfully completed the designated CBB layout under a contract with our contract client: Intel Microelectronics. Helped the DDR/MIG MD team during the critical transition period from 14nm technology to 10nm technology. Design integrated circuit schematics (ADT DDR) to pass FEV (Formal Equivalence Verification) Tape-in schematics to layout. Design and floorplan digital and analogue layout using Genesys (CAD tool) to meet DRC (Design Rule Check), and RV (Reliability Verification) to tape-in for production.
+
+- layout: left
   company: Hitachi Critical Facilities Protection (Singapore) Pte Ltd
   # link: Link to company (optional)
   job_title: Research Engineer
