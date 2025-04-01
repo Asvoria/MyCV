@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Asvoria Kuan Soo Huey
 title: Homo sapiens...
 email: asvoria@live.com
-phone: "+6016-4713138"
+phone: "+65-96391438"
 cv   : "resume.pdf"
 website: https://asvoria.github.io/MyCV/
 
@@ -29,17 +29,16 @@ researchgate_name: Soo-Huey-Kuan
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Engineer with strong technical knowledge and hands on experience. Over 12 years working in the electronics industry. Started her own electronic product business, build up a product. Electronics hardware from architecture, schematic, simulation, PCB floorplanning, routing, BOM, assembly, testing, FA, to final documentation of her invention. Also profess in IC design, from RTL to schematics, to mask/layout design of 14nm (or less) technology. Also an expert in C/C++/C# programming. She believes all computer languages are the same! Regardless of java python solidity or any new languages that a computer may understand: codes.
-
-    - <a href='#projects'> Current Projects </a>
-    - <a href='#xprojects'> Previous Projects </a>
+  Engineer with strong technical knowledge and hands on experience. Over 15 years working in the electronics industry. Started her own electronic product business, build up a product. Electronics hardware and software from architecture, schematic, simulation, PCB floorplanning, routing, BOM, assembly, testing, FA, to final documentation of her invention. Also an expert in C/C++/C# programming. She believes all computer languages are the same! Regardless of java python solidity or any new languages that any computer may understand: Codes.
+about_link: | # this will include new lines to allow paragraphs
     - <a href='#employment'> Employment History </a>
+    - <a href='#xprojects'> Previous Projects </a>
     - <a href='#education'> Education Background </a>
     - <a href='#extra'> Other Infromation </a>
-    - [Download My Resume](/MyCV/AsvoriaKuanSooHuey_CV.pdf){:target="_blank"}
+    - [Download My Resume](/MyCV/SooHueyCV2025.pdf){:target="_blank"}
 
 # Projects Section
-projects_title: Current Projects #(Use this to override about projects section title)
+projects_title: Interest Projects #(Use this to override about projects section title)
 
 # Experience Section
 experience_title: Employment History #(Use this to override about experience section title)
@@ -50,18 +49,8 @@ education_title: Education Background #(Use this to override about education sec
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  **Skills**
-  * Programming - expert in C/C++/C# but flexible on all other programming languages. An advocate for the concept of teaching C as "Mother of all programming languages". Profess both firmware and software programming.
-  * Electronics circuit design (both digital and analogue circuits), from schematic to PCBA.
-  
   **Interests**
-  * [Art](http://avichenatelier.blogspot.com/){:target="_blank"}
-
-  **Obligation**
-  * [Charity Fund](https://asvoria.github.io/olmcf/){:target="_blank"}
-
-  **Experiment**
-  * [Thrifty Old Student Experimental Projects](https://github.com/ThriftyOldStudent){:target="_blank"}
+  * [Art](http://avichenatelier.blogspot.com/){:target="_blank"}， [Fiction](https://asvoria.github.io/Author/){:target="_blank"}， [Experimental Coding](https://github.com/ThriftyOldStudent){:target="_blank"}
 
 # Footer
 footer_show_references: true
