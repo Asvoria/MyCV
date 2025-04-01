@@ -11,16 +11,15 @@
 
       {%- include about.html -%}
 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
+      {%- include skilltable.html -%}
+      <div class="page-break"></div>
+
+      {%- if site.data.experience.size > 0 -%}
+        {%- include experience.html -%}
       {%- endif -%}
 
       {%- if site.data.xprojects.size > 0 -%}
         {%- include xprojects.html -%}
-      {%- endif -%}
-
-      {%- if site.data.experience.size > 0 -%}
-        {%- include experience.html -%}
       {%- endif -%}
 
       {%- if site.data.education.size > 0 -%}

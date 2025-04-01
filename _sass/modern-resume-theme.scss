@@ -143,6 +143,10 @@ ul.icons a {
       font-weight: 500;
 
       @media print {
+        .page-break { break-after: page; }
+        .noprint {
+          display:none !important;
+        }
         margin-bottom: 0.2em;
       }
 
@@ -205,6 +209,10 @@ p.quote {
   text-align: center;
 
   @media print {
+    .page-break { break-after: page; }
+    .noprint {
+      display:none !important;
+    }
     text-align: left;
     padding: 0em 1em;
     margin-top: 1em;

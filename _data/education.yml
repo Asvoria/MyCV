@@ -1,4 +1,9 @@
 # Education Template
+- name: Certified ScrumMaster®
+  dates: 30 Sep 2024
+  # quote: Short institution or course description (optional)
+  # description: Description of qualification
+
 - name: Southern University College, Johor, Malaysia
   dates: Jun 2021 – present
   qualification: PhD by Research (Blockchain, DeFi, DID)

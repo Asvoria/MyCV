@@ -1,9 +1,29 @@
 # Experience template
 - layout: left
+  company: Halliburton Far East Pte Ltd
+  link: https://www.halliburton.com/
+  job_title: Senior Tech Prof. Manufacturing (Electrical & Electronics)
+  dates: Feb 2023 - Present
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Maintain and developing test automation software in various platforms (LabView, Python, C#... etc) for directional drilling equipment. 
+
+- layout: left
+  company: Sanmina-SCI Singapore Pte Ltd
+  link: https://www.sanmina.com/
+  job_title: Senior System Engineer
+  dates: Jun 2021 - Feb 2023
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Research and development of medical electronic & ultra high speed computing devices. Preparation of test protocols and verification of system architecture and system requirement specification.
+
+- layout: left
   company: Continental Electronics (Singapore) Pte Ltd
   link: https://www.continental.sg/
   job_title: Senior Embedded System Engineer
-  dates: Dec 2019 - Present
+  dates: Dec 2019 - Jun 2021
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
